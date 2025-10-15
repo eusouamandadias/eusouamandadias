@@ -9,10 +9,10 @@
 </ul>
 
 <section class="techs" aria-label="Tecnologias">
-    <img src="imagens/java.png"  alt="Java"  title="Java"  loading="lazy" width="100" height="100">
-    <img src="imagens/junit.png" alt="JUnit" title="JUnit" loading="lazy" width="100" height="100">
-    <img src="imagens/sql.png"   alt="SQL"   title="SQL"   loading="lazy" width="100" height="100">
-    <img src="imagens/figma.png" alt="Figma" title="Figma" loading="lazy" width="100" height="100">
+    <img src="imagens/java.png"  alt="Java"  title="Java"  loading="lazy" width="80" height="80">
+    <img src="imagens/junit.png" alt="JUnit" title="JUnit" loading="lazy" width="80" height="80">
+    <img src="imagens/sql.png"   alt="SQL"   title="SQL"   loading="lazy" width="80" height="80">
+    <img src="imagens/figma.png" alt="Figma" title="Figma" loading="lazy" width="80" height="80">
 </section>
 
 
