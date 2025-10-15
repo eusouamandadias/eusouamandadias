@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eusouamandadias/eusouamandadias/main/imagens/cabecalho.gif?v=2" alt="cabeçalho animado" width="3000">
+  <img src="https://raw.githubusercontent.com/eusouamandadias/eusouamandadias/main/imagens/cabecalho.gif?" alt="cabeçalho animado" width="3000">
 </p>
 <h2>👋 Sobre mim</h2>
 <ul>
