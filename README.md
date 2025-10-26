@@ -8,11 +8,4 @@
   <li>💻 Atualmente estudando: <strong>Java</strong>, <strong>SQL</strong>, <strong>Testes Unitários</strong> e <strong>IHC</strong></li>
 </ul>
 
-<section class="techs" aria-label="Tecnologias">
-    <img src="imagens/java.png"  alt="Java"  title="Java"  loading="lazy" width="40" height="40">
-    <img src="imagens/junit.png" alt="JUnit" title="JUnit" loading="lazy" width="40" height="40">
-    <img src="imagens/sql.png"   alt="SQL"   title="SQL"   loading="lazy" width="40" height="40">
-    <img src="imagens/figma.png" alt="Figma" title="Figma" loading="lazy" width="40" height="40">
-</section>
-
 
