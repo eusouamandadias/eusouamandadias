@@ -5,7 +5,7 @@
 <ul>
   <li>🎓 Estudante de <strong>Bacharelado em Engenharia de Software</strong></li>
   <li>📚 Fã de <strong>leitura</strong>, <strong>animações</strong> e <strong>animes</strong></li>
-  <li>💻 Atualmente estudando: <strong>Java</strong>, <strong>SQL</strong>, <strong>Testes Unitários e Automatizados</strong> e <strong>IHC</strong></li>
+  <li>💻 Atualmente estudando: <strong>Python</strong>, <strong>SQL</strong>, <strong>Testes Unitários e Automatizados</strong> e <strong>IHC</strong></li>
 </ul>
 
 
